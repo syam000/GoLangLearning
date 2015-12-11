@@ -1,0 +1,9 @@
+<application>
+  <component name="GoLibraries">
+    <option name="urls">
+      <set>
+        <option value="file://$USER_HOME$/Documents/GO" />
+      </set>
+    </option>
+  </component>
+</application>
